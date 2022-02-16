@@ -1,0 +1,68 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+# Editor
+.DS_Store
+*~
+.idea
+.vscode
+[._]*.sw[a-p]
+tags
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+.idea/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+logs/
+
+### MAVEN ###
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+.gradle
+/build/
+
+**/src/main/resources/*.xml
+#**/src/main/resources/**/*.conf
+#**/src/main/resources/**/*.xml
+**/src/main/resources/data/**
+
+#*.http
+
+/out
+
+### custom config file ###
+src/main/resources/application-local.yml
