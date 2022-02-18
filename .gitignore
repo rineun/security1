@@ -65,4 +65,4 @@ buildNumber.properties
 /out
 
 ### custom config file ###
-src/main/resources/application-local.yml
+src/main/resources/application-*.yml

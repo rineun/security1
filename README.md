@@ -1,6 +1,8 @@
 # security1
 스프링부투 기본로그인 + OAuth2.0 통합 구현
 
+<img width="1041" alt="스크린샷 2022-02-18 오후 3 02 05" src="https://user-images.githubusercontent.com/80495141/154626968-2c8a951e-f882-469e-87b9-bd23e64c2ebb.png">
+
 ### 세션정보 확인
 http://localhost:8080/test/login
 
