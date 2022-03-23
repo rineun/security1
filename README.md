@@ -23,7 +23,7 @@
 #### 세션정보 확인
  - http://localhost:8080/test/login
 
-#### 계정 (test/test)  ROLE = ROLE_USER
+#### 계정 (test/test)  ROLE = ROLE_U일SER
 - http://localhost:8080/user
 
 #### 계정 (manager/manager)  ROLE = ROLE_ADMIN OR ROLE_MANAGER
